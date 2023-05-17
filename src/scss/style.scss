@@ -1,0 +1,32 @@
+@import '~bulma';
+body{
+    background: aquamarine;
+}
+.contenedor{
+    background-color: aqua;
+    
+}
+.contenedor>img{
+    width: 100px;
+    height: 100px;
+
+
+}
+.card{
+    height: 100px;
+    width: 100px;
+    box-shadow: rgb(13, 228, 153);
+
+}
+.card-image{
+    height: 100px; width: 100px;
+    box-shadow: red;
+    box-sizing: cover;
+
+
+}
+.secundario{
+    height: 100px;
+    width: 100px;
+    box-shadow: oran;
+}
